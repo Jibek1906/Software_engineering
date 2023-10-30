@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\LabarotoryWork1\LabarotoryWork1\bin\Debug\LabarotoryWork1.exe.config
+C:\Users\User\source\repos\LabarotoryWork1\LabarotoryWork1\bin\Debug\LabarotoryWork1.exe
+C:\Users\User\source\repos\LabarotoryWork1\LabarotoryWork1\bin\Debug\LabarotoryWork1.pdb
+C:\Users\User\source\repos\LabarotoryWork1\LabarotoryWork1\obj\Debug\LabarotoryWork1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LabarotoryWork1\LabarotoryWork1\obj\Debug\LabarotoryWork1.Form1.resources
+C:\Users\User\source\repos\LabarotoryWork1\LabarotoryWork1\obj\Debug\LabarotoryWork1.Properties.Resources.resources
+C:\Users\User\source\repos\LabarotoryWork1\LabarotoryWork1\obj\Debug\LabarotoryWork1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\LabarotoryWork1\LabarotoryWork1\obj\Debug\LabarotoryWork1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LabarotoryWork1\LabarotoryWork1\obj\Debug\LabarotoryWork1.exe
+C:\Users\User\source\repos\LabarotoryWork1\LabarotoryWork1\obj\Debug\LabarotoryWork1.pdb
